@@ -197,7 +197,7 @@ links:
   Future魏来: https://FutureWL.github.io
   江西科技学院: http://www.jxut.edu.cn
   概念站: https://jxut-bst.github.io/BST-website/.
-
+  林俊: https://linjunjj.github.io/linjun
 # ---------------------------------------------------------------
 # Misc Theme Settings
 # ---------------------------------------------------------------
@@ -226,7 +226,7 @@ scroll_to_more: true
 # Automatically Excerpt. Not recommand.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 
@@ -253,7 +253,7 @@ mathjax:
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: ffc46dd260da3dd7206b1decb6d113bf
 
 # Duoshuo ShortName
 #duoshuo_shortname:
